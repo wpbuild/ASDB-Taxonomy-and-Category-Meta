@@ -32,7 +32,7 @@ Configure the meta you want to use.
 5. That's it!
 6. you can use the folowing functions into your templates to retreive 1 meta:
 `
-$metaValue = get_term_meta($category_id, $meta_key, , true);
+$metaValue = get_term_meta($category_id, $meta_key, true);
 `
 7. you can use the folowing functions into your templates to retreive all meta:
 `
