@@ -31,10 +31,6 @@ Configure the meta you want to use.
 4. go to your Administration interface, in the "Category" menu -> new fields are displayed in the category modification form with the meta you configured.
 5. That's it!
 6. you can use the folowing functions into your templates to retreive 1 meta:
-`
-$metaValue = get_term_meta($category_id, $meta_key, true);
-`
+<?php $metaValue = get_term_meta($category_id, $meta_key, true); ?>
 7. you can use the folowing functions into your templates to retreive all meta:
-`
-$metaList = get_term_meta($category_id, '');
-`
+<?php $metaList = get_term_meta($category_id, ''); ?>
