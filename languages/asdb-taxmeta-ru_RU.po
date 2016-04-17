@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-14 12:00+0100\n"
+"PO-Revision-Date: 2016-04-13 05:21+0600\n"
+"Last-Translator: Mikhail Tkachev aka kitassa <www@artstorm.su>\n"
+"Language-Team: Mikhail Tkacheff <www@artstorm.su>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-Basepath: .\n"
+"Language: ru\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/asdb-taxmeta-admin.php:64
+msgid "ASDB Taxonomy and Category Meta"
+msgstr "Добавление Метаданных для Категорий и Таксономий"
+
+#: ../admin/asdb-taxmeta-admin.php:68
+msgid "Meta list"
+msgstr "Список Метаданных"
+
+#: ../admin/asdb-taxmeta-admin.php:75 ../admin/asdb-taxmeta-admin.php:121
+msgid "Meta Label"
+msgstr "Заголовок"
+
+#: ../admin/asdb-taxmeta-admin.php:76 ../admin/asdb-taxmeta-admin.php:128
+msgid "Meta Name"
+msgstr "Имя метаданных"
+
+#: ../admin/asdb-taxmeta-admin.php:77 ../admin/asdb-taxmeta-admin.php:134
+msgid "Meta Type"
+msgstr "Тип метаданных"
+
+#: ../admin/asdb-taxmeta-admin.php:78
+msgid "Meta Taxonomy"
+msgstr "Таксономия"
+
+#: ../admin/asdb-taxmeta-admin.php:79
+msgid "Action"
+msgstr "Action"
+
+#: ../admin/asdb-taxmeta-admin.php:104
+msgid "Delete Meta"
+msgstr "Удалить"
+
+#: ../admin/asdb-taxmeta-admin.php:116 ../admin/asdb-taxmeta-admin.php:163
+msgid "Add Meta"
+msgstr "Добавить"
+
+#: ../admin/asdb-taxmeta-admin.php:137
+msgid "Text"
+msgstr "Text"
+
+#: ../admin/asdb-taxmeta-admin.php:138
+msgid "Text Area"
+msgstr "Text Area"
+
+#: ../admin/asdb-taxmeta-admin.php:139
+msgid "WYSIWYG Editor"
+msgstr "WYSIWYG Editor"
+
+#: ../admin/asdb-taxmeta-admin.php:140
+msgid "Image Upload"
+msgstr "Image Upload"
+
+#: ../admin/asdb-taxmeta-admin.php:141
+msgid "Check Box"
+msgstr "Check Box"
+
+#: ../admin/asdb-taxmeta-admin.php:146
+msgid "Add to Taxonomy"
+msgstr "Добавить к таксономии"
+
+#: ../asdb-taxmeta.php:198 ../asdb-taxmeta.php:211 ../asdb-taxmeta.php:226
+#: ../asdb-taxmeta.php:269 ../asdb-taxmeta.php:283
+msgid "This custom data is attached to the current Term"
+msgstr "Метаданные будут добавлены к выбранному термину"
+
+#: ../asdb-taxmeta.php:168
+msgid "Term Meta"
+msgstr "Метаданные Термина"
+
+#: ../asdb-taxmeta.php:267
+msgid "Upload Image"
+msgstr "Добавить изображение"
+
+#: ../asdb-taxmeta.php:268
+msgid "Delete Image"
+msgstr "Удалить изображение"

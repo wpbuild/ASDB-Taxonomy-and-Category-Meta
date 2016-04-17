@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-13 05:11+0600\n"
+"PO-Revision-Date: 2016-04-13 05:22+0600\n"
+"Last-Translator: Mikhail Tkachev aka kitassa <www@artstorm.su>\n"
+"Language-Team: Mikhail Tkacheff <www@artstorm.su>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/asdb-taxmeta-admin.php:64
+msgid "ASDB Taxonomy and Category Meta"
+msgstr "ASDB Taxonomy and Category Meta"
+
+#: ../admin/asdb-taxmeta-admin.php:68
+msgid "Meta list"
+msgstr "Meta list"
+
+#: ../admin/asdb-taxmeta-admin.php:75 ../admin/asdb-taxmeta-admin.php:121
+msgid "Meta Label"
+msgstr "Meta Label"
+
+#: ../admin/asdb-taxmeta-admin.php:76 ../admin/asdb-taxmeta-admin.php:128
+msgid "Meta Name"
+msgstr "Meta Name"
+
+#: ../admin/asdb-taxmeta-admin.php:77 ../admin/asdb-taxmeta-admin.php:134
+msgid "Meta Type"
+msgstr "Meta Type"
+
+#: ../admin/asdb-taxmeta-admin.php:78
+msgid "Meta Taxonomy"
+msgstr "Meta Taxonomy"
+
+#: ../admin/asdb-taxmeta-admin.php:79
+msgid "Action"
+msgstr "Action"
+
+#: ../admin/asdb-taxmeta-admin.php:104
+msgid "Delete Meta"
+msgstr "Delete Meta"
+
+#: ../admin/asdb-taxmeta-admin.php:116 ../admin/asdb-taxmeta-admin.php:163
+msgid "Add Meta"
+msgstr "Add Meta"
+
+#: ../admin/asdb-taxmeta-admin.php:137
+msgid "Text"
+msgstr "Text"
+
+#: ../admin/asdb-taxmeta-admin.php:138
+msgid "Text Area"
+msgstr "Text Area"
+
+#: ../admin/asdb-taxmeta-admin.php:139
+msgid "WYSIWYG Editor"
+msgstr "WYSIWYG Editor"
+
+#: ../admin/asdb-taxmeta-admin.php:140
+msgid "Image Upload"
+msgstr "Image Upload"
+
+#: ../admin/asdb-taxmeta-admin.php:141
+msgid "Check Box"
+msgstr "Check Box"
+
+#: ../admin/asdb-taxmeta-admin.php:146
+msgid "Add to Taxonomy"
+msgstr "Add to Taxonomy"
+
+#: ../asdb-taxmeta.php:168
+msgid "Term Meta"
+msgstr "Term Meta"
+
+#: ../asdb-taxmeta.php:198 ../asdb-taxmeta.php:211 ../asdb-taxmeta.php:226
+#: ../asdb-taxmeta.php:269 ../asdb-taxmeta.php:283
+msgid "This custom data is attached to the current Term"
+msgstr "This custom data is attached to the current Term"
+
+#: ../asdb-taxmeta.php:267
+msgid "Upload Image"
+msgstr "Upload Image"
+
+#: ../asdb-taxmeta.php:268
+msgid "Delete Image"
+msgstr "Delete Image"
