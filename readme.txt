@@ -3,7 +3,7 @@ Tags: taxonomy, meta, custom field, category meta, taxonomy meta, term meta, cus
 License URI: http://en.wikipedia.org/wiki/MIT_License
 Contributors: wpbuild.ru
 Author: Mikhail "kitassa" Tkacheff
-Tested up to: 4.4
+Tested up to: 4.5
 License: MIT License
 Requires at least: 4.4.0
 Stable tag: 1.0.3
