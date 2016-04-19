@@ -34,4 +34,4 @@ Configure the meta you want to use.
 6. you can use the folowing functions into your templates to retreive 1 meta:
 <?php $metaValue = get_term_meta($category_id, $meta_key, true); ?>
 7. you can use the folowing functions into your templates to retreive all meta:
-<?php $metaList = get_term_meta($category_id, ''); ?>
+<?php $metaArray = get_term_meta($category_id, ''); ?>
